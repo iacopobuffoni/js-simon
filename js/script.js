@@ -22,7 +22,7 @@ for (i = 0; i < 5; i++) {
 
 }
 
-setTimeout (Disapper, 3000);
+setTimeout (Disapper, 30000);
 
 setTimeout (function () {
 
@@ -48,5 +48,5 @@ setTimeout (function () {
 
     }
  
- }, 3010)
+ }, 30010)
 
