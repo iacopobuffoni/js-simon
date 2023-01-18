@@ -48,5 +48,5 @@ setTimeout (function () {
 
     }
  
- }, 30010)
+ }, 30050)
 
